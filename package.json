@@ -1,5 +1,5 @@
 {
-  "name": "@metamask/test-dapp",
+  "name": "@synpress-io/metamask-test-dapp",
   "version": "7.0.2",
   "description": "A simple dapp used in MetaMask e2e tests.",
   "engines": {
